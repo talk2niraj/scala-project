@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b6a9a44-dfad-444f-aa8a-20b8c1bbcdab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZCpi73lCuiLjDQhdUXhe6Q0Btu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ListsSuite">
+    <configuration name="ListsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.max$u0020is$u0020same$u0020element$u0020if$u0020it$u0020is$u0020the$u0020only$u0020one$u0020element$u0020in$u0020the$u0020list$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="max$u0020is$u0020same$u0020element$u0020if$u0020it$u0020is$u0020the$u0020only$u0020one$u0020element$u0020in$u0020the$u0020list$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.max$u0020of$u0020few$u0020negative$u0020numbers$u0020in$u0020the$u0020list$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="max$u0020of$u0020few$u0020negative$u0020numbers$u0020in$u0020the$u0020list$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.sum$u0020of$u0020a$u0020few$u0020negative$u0020numbers$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="sum$u0020of$u0020a$u0020few$u0020negative$u0020numbers$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListsSuite.sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u005Babove$u0020test$u0020written$u0020with$u0020Assert$u002EassertEquals$u005D$u0020$u002810pts$u0029" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.ListsSuite" />
+      <option name="METHOD_NAME" value="sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u005Babove$u0020test$u0020written$u0020with$u0020Assert$u002EassertEquals$u005D$u0020$u002810pts$u0029" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListsSuite" />
+        <item itemvalue="JUnit.ListsSuite.sum$u0020of$u0020a$u0020few$u0020numbers$u0020$u005Babove$u0020test$u0020written$u0020with$u0020Assert$u002EassertEquals$u005D$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.ListsSuite.sum$u0020of$u0020a$u0020few$u0020negative$u0020numbers$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.ListsSuite.max$u0020is$u0020same$u0020element$u0020if$u0020it$u0020is$u0020the$u0020only$u0020one$u0020element$u0020in$u0020the$u0020list$u0020$u002810pts$u0029" />
+        <item itemvalue="JUnit.ListsSuite.max$u0020of$u0020few$u0020negative$u0020numbers$u0020in$u0020the$u0020list$u0020$u002810pts$u0029" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="example [file:/C:/Users/niraj/scalaProject/bigdata-example/example/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="324345361" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/testingproject" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b6a9a44-dfad-444f-aa8a-20b8c1bbcdab" name="Default Changelist" comment="" />
+      <created>1584353054408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584353054408</updated>
+      <workItem from="1584353055815" duration="7088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584358858483">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1360.728@0.0.1360.728" timestamp="1584358858483" />
+    <state x="110" y="120" width="1140" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584358101873">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="110" y="120" width="1140" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1360.728@0.0.1360.728" timestamp="1584358101873" />
+    <state width="1280" height="163" key="GridCell.Tab.0.bottom" timestamp="1584359620857">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="163" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1584359620857" />
+    <state width="1280" height="163" key="GridCell.Tab.0.center" timestamp="1584359620857">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="163" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1584359620857" />
+    <state width="1280" height="163" key="GridCell.Tab.0.left" timestamp="1584359620857">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="163" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1584359620857" />
+    <state width="1280" height="163" key="GridCell.Tab.0.right" timestamp="1584359620857">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1280" height="163" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1584359620857" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584541696195">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1584541696195" />
+  </component>
+</project>

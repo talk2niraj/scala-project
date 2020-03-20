@@ -1,0 +1,17 @@
+[debug] Packaging C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\progfun1-example-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\classes
+[debug] 	example
+[debug] 	  C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\classes\example
+[debug] 	example\Lists$.class
+[debug] 	  C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\classes\example\Lists$.class
+[debug] 	example\Lists.class
+[debug] 	  C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\classes\example\Lists.class
+[debug] 	example\Main$.class
+[debug] 	  C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\classes\example\Main$.class
+[debug] 	example\Main$delayedInit$body.class
+[debug] 	  C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\classes\example\Main$delayedInit$body.class
+[debug] 	example\Main.class
+[debug] 	  C:\Users\niraj\scalaProject\bigdata-example\example\target\scala-2.13\classes\example\Main.class
+[debug] Done packaging.
